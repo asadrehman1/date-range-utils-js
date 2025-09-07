@@ -1,0 +1,31 @@
+{
+  "name": "date-range-utils-js",
+  "version": "1.0.0",
+  "description": "Compute date ranges, differences, and overlaps for calendars and dashboards",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadrehman1/date-range-utils-js.git"
+  },
+  "keywords": [
+    "date",
+    "range",
+    "calendar",
+    "time",
+    "utility",
+    "dates"
+  ],
+  "author": "Asad Rehman <asadrehman2321@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/date-range-utils-js/issues"
+  },
+  "homepage": "https://github.com/yourusername/date-range-utils-js#readme",
+  "files": [
+    "index.js"
+  ]
+}
