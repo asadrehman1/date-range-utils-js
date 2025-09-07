@@ -77,7 +77,7 @@ console.log(range("2025-09-01", "2025-09-03"));
 
 - **Reusable**: Works in Node.js and frontend apps.  
 - **Lightweight**: Zero dependencies, small footprint.  
-- **Practical**: Handles date calculations for real world applications like booking systems, calendars, and analytics dashboards.
+- **Practical**: Handles date calculations for real-world applications like booking systems, calendars, and analytics dashboards.
 
 ---
 
